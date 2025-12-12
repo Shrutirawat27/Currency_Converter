@@ -49,4 +49,4 @@ https://flagsapi.com/{country_code}/flat/64.png
 
 ## Author
 **Shruti Rawat**<br>
-Frontend Developer
+Web Developer
