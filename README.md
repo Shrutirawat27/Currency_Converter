@@ -48,5 +48,5 @@ https://flagsapi.com/{country_code}/flat/64.png
 - Linking country codes to currency codes
 
 ## Author
-**Shruti Rawat** 
+**Shruti Rawat**<br>
 Frontend Developer
