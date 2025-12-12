@@ -26,12 +26,12 @@ Flags API:
 https://flagsapi.com/{country_code}/flat/64.png
 
 ## Folder Structure
-index.html
-style.css
-app.js
-codes.js
-assets/
-   CurrencyConverterInterface.png
+- index.html
+- style.css
+- app.js
+- codes.js
+- assets/
+   - CurrencyConverterInterface.png
 
 ## How to Use
 1. Enter any amount
